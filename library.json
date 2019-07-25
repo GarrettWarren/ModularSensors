@@ -143,6 +143,30 @@
             "platforms": "atmelavr, atmelsam"
         },
         {
+            "name": "Adafruit BME680 Library",
+            "library id": "1922",
+            "url": "https://github.com/adafruit/Adafruit_BME680.git",
+            "version": "=1.0.7",
+            "note": "Bosch BME680 Temp/Humidity/Pressure/Gas Sensor Library by Adafruit",
+            "authors": [
+                "Adafruit"
+            ],
+            "frameworks": "arduino",
+            "platforms": "atmelavr, atmelsam"
+        },
+        {
+            "name": "Adafruit TSL2591 Library",
+            "library id": "463",
+            "url": "https://github.com/adafruit/Adafruit_TSL2591_Library.git",
+            "version": "=1.1.1",
+            "note": "TSL2591 High Dynamic Range Light Sensor by Adafruit",
+            "authors": [
+                "Adafruit"
+            ],
+            "frameworks": "arduino",
+            "platforms": "atmelavr, atmelsam"
+        },
+        {
             "name": "DHT sensor library",
             "library id": "19",
             "url": "https://github.com/adafruit/DHT-sensor-library.git",

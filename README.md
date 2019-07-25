@@ -19,7 +19,10 @@ Although this library was written primarily for the [EnviroDIY Mayfly data logge
 - [ThingSpeak](https://github.com/EnviroDIY/ModularSensors/wiki/ThingSpeak-Functions)
 
 ## These sensors are currently supported:
-
+<!-- TODO: add links to wiki  -->
+- [Adafruit TSL2591: High Dynamic Range Digital Light Sensor]()
+- [Adafruit BME680: Temperature, Humidity, Pressure and Gas Sensor]()
+<!-- TODO: end add links to wiki -->
 - [Apogee SQ-212: quantum light sensor, via TI ADS1115](https://github.com/EnviroDIY/ModularSensors/wiki/Apogee-SQ212)
 - [AOSong AM2315: humidity & temperature](https://github.com/EnviroDIY/ModularSensors/wiki/AOSong-AM2315)
 - [AOSong DHT: humidity & temperature](https://github.com/EnviroDIY/ModularSensors/wiki/AOSong-DHT)
@@ -45,6 +48,9 @@ Although this library was written primarily for the [EnviroDIY Mayfly data logge
 - [Maxim DS18: temperature](https://github.com/EnviroDIY/ModularSensors/wiki/Maxim-DS18)
 - [Maxim DS3231: real time clock](https://github.com/EnviroDIY/ModularSensors/wiki/Maxim-DS3231)
 - [Measurement Specialties MS5803: pressure and temperature](https://github.com/EnviroDIY/ModularSensors/wiki/Measurement-Specialties-MS5803)
+- <!-- TODO: add links to wiki  -->
+- [Meter Group Terros 12: Soil moisture, temperature, and electrical conductivity]()
+<!-- TODO: end add links to wiki -->
 - [TI INA219: current, voltage, and power draw](https://github.com/EnviroDIY/ModularSensors/wiki/TI-INA219)
 - [Yosemitech: water quality sensors](https://github.com/EnviroDIY/ModularSensors/wiki/Yosemitech-Sensors)
     - Y502-A or Y504-A: Optical DO and Temperature
